@@ -6,6 +6,7 @@ Affine
 Hoán vị  
 Vigenère  
 Playfair  
+
 Với mỗi phương pháp, hãy tìm hiểu:  
 Tên gọi  
 Thuật toán mã hoá, thuật toán giải mã  
