@@ -109,7 +109,7 @@ Cách phá mã: Dùng phân tích tần suất cặp chữ cái (digraph frequen
 
 # Các thuật toán mã hoá cổ điển như Caesar, Affine, Hoán vị, Vigenère và Playfair đều đóng vai trò quan trọng trong lịch sử phát triển của mật mã học. Mặc dù ngày nay chúng đã trở nên đơn giản và không còn an toàn trước các kỹ thuật phá mã hiện đại, nhưng lại có giá trị lớn về mặt giáo dục và lý thuyết.
 
-Điểm chung:
+# Điểm chung:
 
 Dựa trên những nguyên tắc toán học cơ bản như dịch chuyển, đồng dư, hoán vị và tổ hợp.
 
@@ -117,7 +117,7 @@ Biến đổi bản rõ (plaintext) thành bản mã (ciphertext) thông qua kh�
 
 Có thể được giải mã thủ công hoặc bằng các phương pháp thống kê, tần suất chữ cái.
 
-Điểm khác nhau:
+# Điểm khác nhau:
 
 Caesar: đơn giản nhất, chỉ dịch chuyển theo một số bước.
 
@@ -129,7 +129,7 @@ Vigenère: dùng khóa nhiều ký tự → tránh được phần nào phân t�
 
 Playfair: mã hóa theo cặp chữ cái, che giấu tần suất đơn chữ tốt hơn.
 
-Ý nghĩa thực tiễn:
+# Ý nghĩa thực tiễn:
 
 Dù không còn dùng trong an ninh hiện đại, chúng chính là nền tảng cho các thuật toán mật mã hiện đại như RSA, AES, DES.
 
