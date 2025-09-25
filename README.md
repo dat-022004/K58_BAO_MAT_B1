@@ -12,7 +12,8 @@ Thuật toán mã hoá, thuật toán giải mã
 Không gian khóa  
 Cách phá mã (mà không cần khoá)  
 Cài đặt thuật toán mã hoá và giải mã bằng code C++ và bằng html+css+javascript  
-# ====================================================================  
+# ============================
+
 # Tên gọi: Mật mã Caesar.
 
 Nguyên lý: Mỗi chữ cái trong bản rõ sẽ được dịch chuyển đi một số bước nhất định trong bảng chữ cái.
